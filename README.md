@@ -29,23 +29,25 @@ This project demonstrates database connectivity, CRUD operations, and transactio
 
 ## 🗂 Project Structure
 Banking-Management-System
- ├── src
- │    ├── main
- │    │    ├── java
- │    │    │    ├── com
- │    │    │    │    ├── abhishek
- │    │    │    │    │    ├── model
- │    │    │    │    │    │    └── User.java
- │    │    │    │    │    ├── dao
- │    │    │    │    │    │    └── UserDAO.java
- │    │    │    │    │    ├── util
- │    │    │    │    │    │    └── DBConnection.java
- │    │    │    │    │    └── BankingSystem.java
- ├── .gitignore
- ├── README.md
-
-
----
+```text
+Banking-Management-System
+│
+├── src
+│   └── main
+│       └── java
+│           └── com
+│               └── abhishek
+│                   ├── model
+│                   │   └── User.java
+│                   ├── dao
+│                   │   └── UserDAO.java
+│                   ├── util
+│                   │   └── DBConnection.java
+│                   └── BankingSystem.java
+│
+├── .gitignore
+└── README.md
+```
 
 ## ▶️ How to Run
 
